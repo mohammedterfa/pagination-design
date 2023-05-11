@@ -41,5 +41,16 @@ ul li{
     font-weight: 500;
     line-height: 45px;
     cursor: pointer;
-    
+}
+
+.btn1, .btn2{
+    display: inline-flex;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 500;
+    color: #383838;
+    background: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
 }
